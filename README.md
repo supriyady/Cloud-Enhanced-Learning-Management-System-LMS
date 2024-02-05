@@ -4,7 +4,7 @@ Predicting The Energy Output Of Wind Turbine Based On Weather Condition using Ma
 <br>
 ## Implementation
 
-First Clone the repository: https://github.com/jagadeeshpj/Predicting-The-Energy-Output-Of-Wind-Turbine-Based-On-Weather-Condition.git
+First Clone the repository: [https://github.com/jagadeeshpj/Predicting-The-Energy-Output-Of-Wind-Turbine-Based-On-Weather-Condition.git](https://github.com/supriyady/Cloud-Enhanced-Learning-Management-SystemS-LMS-.git)
 <br>
 <br>
 ## Problem Description
@@ -56,8 +56,6 @@ energy output of wind farms. We are building web app  to predict the energy outp
 
 <br>
 
-## Link to project demonstration video
- https://youtu.be/ICfu49Ud2HU
 
  
  ### Contributing 
