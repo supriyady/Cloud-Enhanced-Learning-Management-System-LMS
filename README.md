@@ -1,10 +1,10 @@
-# Predicting-The-Energy-Output-Of-Wind-Turbine-Based-On-Weather-Condition
-Predicting The Energy Output Of Wind Turbine Based On Weather Condition using Machine Learning
+# Cloud-Enhanced-Learning-Management-System-LMS
+Cloud-Enhanced-Learning-Management-System-LMS
 <br>
 <br>
 ## Implementation
 
-First Clone the repository: [https://github.com/jagadeeshpj/Predicting-The-Energy-Output-Of-Wind-Turbine-Based-On-Weather-Condition.git](https://github.com/supriyady/Cloud-Enhanced-Learning-Management-SystemS-LMS-.git)
+First Clone the repository: [supriyady/Cloud-Enhanced-Learning-Management-System-LMS-](https://github.com/supriyady/Cloud-Enhanced-Learning-Management-SystemS-LMS-.git)
 <br>
 <br>
 ## Problem Description
